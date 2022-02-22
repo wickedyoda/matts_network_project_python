@@ -1,5 +1,5 @@
 # specify Host and Port
-HOST = ''
+HOST = 'localhost'
 PORT = 3389
 
 soc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
